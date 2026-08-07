@@ -7,7 +7,7 @@
 
 <p align="center">
   <img 
-    src="./assets/onepiece.png"
+    src="./2ghbw4ea28471.jpg"
     width="100%"
     alt="One Piece"
   />
