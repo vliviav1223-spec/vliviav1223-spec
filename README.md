@@ -1,9 +1,16 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&width=500&lines=Estudante+de+Ciberseguranca;Futura+Desenvolvedora+Full+Stack;Entusiasta+em+Seguranca+da+Informacao;Construindo+Aplicacoes+Seguras;Bem-vindo(a)+ao+meu+perfil!" alt="Typing SVG" />
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&width=500&lines=Estudante+de+Ciberseguranca;Futura+Desenvolvedora+Full+Stack;Entusiasta+em+Seguranca+da+Informacao;Construindo+Aplicacoes+Seguras;Bem-vindo(a)+ao+meu+perfil"
+    alt="Typing SVG"
+  />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/u01ioCe6G8URG/giphy.gif" width="300" alt="Pokemon GIF" />
+  <img 
+    src="./assets/onepiece.png"
+    width="100%"
+    alt="One Piece"
+  />
 </p>
 
 <br />
