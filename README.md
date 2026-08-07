@@ -2,20 +2,23 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&width=500&lines=Estudante+de+Ciberseguranca;Futura+Desenvolvedora+Full+Stack;Entusiasta+em+Seguranca+da+Informacao;Construindo+Aplicacoes+Seguras;Bem-vindo(a)+ao+meu+perfil!" alt="Typing SVG" />
 </p>
 
-<br />
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5d4,100:7b2cbf&height=180&section=header&text=V%20Livia&fontSize=50&fontColor=ffffff&animation=fadeIn" alt="Header Banner" />
+  <img src="https://media.giphy.com/media/u01ioCe6G8URG/giphy.gif" width="300" alt="Pokemon GIF" />
 </p>
 
-<h3 align="center">🛠️ Tecnologias & Foco de Estudo</h3>
+<br />
+
+<h3 align="center">⚡ Tecnologias & Habilidades</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Cybersecurity-00F5D4?style=for-the-badge&logo=shield&logoColor=black" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 <picture>
