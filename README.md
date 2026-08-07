@@ -1,8 +1,16 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F72585&center=true&vCenter=true&width=435&lines=Desenvolvedor(a)+Full+Stack;Projeto+ONG+Resgatando+Valores;Bem-vindo(a)+ao+meu+perfil!)](https://git.io/typing-svg)
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&width=500&lines=Estudante+de+Cibersegurança;Futura+Desenvolvedora+Full+Stack;Entusiasta+em+Segurança+da+Informação;Construindo+Aplicações+Seguras;Bem-vindo(a)+ao+meu+perfil!" alt="Typing SVG" />
+  </a>
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=radial&hide_border=true" />
+<br />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=vision-friendly-dark&hide_border=true" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vliviav1223-spec&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas do GitHub" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vliviav1223-spec&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
+</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vliviav1223-spec/vliviav1223-spec/output/github-snake-dark.svg" />
