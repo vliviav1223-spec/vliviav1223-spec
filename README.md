@@ -5,11 +5,17 @@
 <br />
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vliviav1223-spec&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5d4,100:7b2cbf&height=180&section=header&text=V%20Livia&fontSize=50&fontColor=ffffff&animation=fadeIn" alt="Header Banner" />
 </p>
 
+<h3 align="center">🛠️ Tecnologias & Foco de Estudo</h3>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vliviav1223-spec&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
+  <img src="https://img.shields.io/badge/Cybersecurity-00F5D4?style=for-the-badge&logo=shield&logoColor=black" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 <picture>
