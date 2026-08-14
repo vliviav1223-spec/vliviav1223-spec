@@ -149,7 +149,7 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=vliviav1223-spec&show_icons=true&theme=dark&bg_color=0D181B&title_color=78999B&text_color=536F71&icon_color=78999B&border_color=172629"
+    src="https://github-readme-stats.vercel.app/api?username=vliviav1223-spec&show_icons=true&theme=dark&hide_border=true"
     width="65%"
     alt="GitHub Stats"
   />
