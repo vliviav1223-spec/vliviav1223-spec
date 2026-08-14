@@ -1,76 +1,171 @@
-<p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1319,50:1B2A38,100:3B101C&height=200&section=header&text=CYBERSECURITY&fontSize=48&fontColor=E0E6ED&fontAlignY=35&animation=twinkling" 
-    width="100%" 
-    alt="Header Crepúsculo"
-  />
-</p>
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Cinzel&size=18&duration=3000&pause=800&color=8FA3B0&background=00000000&center=true&vCenter=true&width=700&height=50&lines=Estudante+de+Ciberseguran%C3%A7a;Futura+Desenvolvedora+Full+Stack;Construindo+Aplica%C3%A7%C3%B5es+Seguras;Bem-vindo(a)+ao+meu+perfil!" alt="Typing SVG Crepusculo" />
-  </a>
-</p>
-
-<p align="center">
-  <img 
-    src="./1ff748c08e748e7c466b4a2a2f8be868.jpg" 
-    width="90%" 
-    style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);"
-    alt="Imagem Crepúsculo Topo"
-  />
-</p>
-
-<br>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme-badges/master/assets/lines/silver.gif" width="100%" height="2px" />
-</p>
-
-<br>
-
-<p align="center">
-  <img 
-    src="./maxresdefault.jpg" 
-    width="90%" 
-    style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);"
-    alt="Imagem Crepúsculo Meio"
-  />
-</p>
-
-<br>
-
-<p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1319,50:15222E,100:0B1319&height=70&text=🌑%20Tecnologias%20%26%20Habilidades%20🌑&fontSize=20&fontColor=E0E6ED&stroke=3B101C&strokeWidth=1" 
-    width="100%" 
-  />
-</p>
-
-<br>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/CYBERSECURITY-3B101C?style=for-the-badge&logo=shield&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-1B2A38?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/LARAVEL-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-
-<br>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=dark&hide_border=false" alt="GitHub Stats" />
-</p>
-
-<br>
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--                    HEADER / JINKS STYLE                -->
+<!-- ═══════════════════════════════════════════════════════ -->
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:3B101C,50:1B2A38,100:0B1319&height=120&section=footer&animation=twinkling"
+    src="https://capsule-render.vercel.app/api?type=rect&color=0B171B&height=90&text=☆%20jinks%20☆&fontSize=34&fontColor=8FA7A8&fontAlignY=55"
+    width="100%"
+  />
+</p>
+
+<p align="center">
+  <sub>
+    ★ welcome to my little corner of the internet ★
+  </sub>
+</p>
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=13&duration=3500&pause=1000&color=78999B&background=00000000&center=true&vCenter=true&width=500&height=35&lines=cybersecurity+student;future+full+stack+developer;building+things+in+the+dark;welcome+to+my+profile..."
+    alt="Typing"
+  />
+</p>
+
+<br>
+
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--                         SEARCH BAR                     -->
+<!-- ═══════════════════════════════════════════════════════ -->
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=101D20&height=45&text=⌕%20%20%20searching%20the%20internet...%20%20%20☆&fontSize=13&fontColor=668486&fontAlignY=55"
+    width="75%"
+  />
+</p>
+
+<br>
+
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--                       MAIN IMAGE                       -->
+<!-- ═══════════════════════════════════════════════════════ -->
+
+<p align="center">
+  <img
+    src="./1ff748c08e748e7c466b4a2a2f8be868.jpg"
+    width="72%"
+    alt="Twilight forest"
+  />
+</p>
+
+<p align="center">
+  <sub>
+    ✦ somewhere between the forest and the internet ✦
+  </sub>
+</p>
+
+<br>
+
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--                    ABOUT / PROFILE                     -->
+<!-- ═══════════════════════════════════════════════════════ -->
+
+<table align="center" width="75%">
+  <tr>
+    <td bgcolor="#0D181B">
+
+      <p align="center">
+        <font color="#769394">
+          ☆ about me ☆
+        </font>
+      </p>
+
+      <p align="center">
+        <font color="#536F71" size="2">
+          Estudante de Cibersegurança<br>
+          Futura Desenvolvedora Full Stack<br>
+          Construindo aplicações seguras<br>
+          explorando código, sistemas e a web.
+        </font>
+      </p>
+
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--                       SECOND IMAGE                      -->
+<!-- ═══════════════════════════════════════════════════════ -->
+
+<p align="center">
+  <img
+    src="./maxresdefault.jpg"
+    width="72%"
+    alt="Twilight deer"
+  />
+</p>
+
+<p align="center">
+  <font color="#526E70">
+    <sub>
+      your first fall in Forks | twilight comfort playlist
+    </sub>
+  </font>
+</p>
+
+<br>
+
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--                       STARS                            -->
+<!-- ═══════════════════════════════════════════════════════ -->
+
+<p align="center">
+  ☆　★　☆　★　☆
+</p>
+
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--                    TECHNOLOGIES                        -->
+<!-- ═══════════════════════════════════════════════════════ -->
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=101D20&height=50&text=☆%20technologies%20☆&fontSize=18&fontColor=78999B&fontAlignY=55"
+    width="75%"
+  />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/CYBERSECURITY-152629?style=flat-square&logo=shield&logoColor=78999B">
+  <img src="https://img.shields.io/badge/C-152629?style=flat-square&logo=c&logoColor=78999B">
+  <img src="https://img.shields.io/badge/C%23-152629?style=flat-square&logo=csharp&logoColor=78999B">
+  <img src="https://img.shields.io/badge/PHP-152629?style=flat-square&logo=php&logoColor=78999B">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LARAVEL-152629?style=flat-square&logo=laravel&logoColor=78999B">
+  <img src="https://img.shields.io/badge/JAVASCRIPT-152629?style=flat-square&logo=javascript&logoColor=78999B">
+  <img src="https://img.shields.io/badge/CSS3-152629?style=flat-square&logo=css3&logoColor=78999B">
+  <img src="https://img.shields.io/badge/GIT-152629?style=flat-square&logo=git&logoColor=78999B">
+</p>
+
+<br>
+
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--                       GITHUB STATS                     -->
+<!-- ═══════════════════════════════════════════════════════ -->
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=dark&bg_color=0D181B&title_color=78999B&text_color=536F71&icon_color=78999B&border_color=172629"
+    width="65%"
+    alt="GitHub Stats"
+  />
+</p>
+
+<br>
+
+<p align="center">
+  <sub>
+    ☆ made with insomnia, code & a little bit of twilight ☆
+  </sub>
+</p>
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0D181B,50:152629,100:071013&height=100&section=footer"
     width="100%"
   />
 </p>
