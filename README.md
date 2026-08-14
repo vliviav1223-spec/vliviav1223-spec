@@ -14,7 +14,7 @@
 
 <p align="center">
   <img 
-    src="./SUA_PRIMEIRA_IMAGEM.jpg" 
+    src="./1ff748c08e748e7c466b4a2a2f8be868.jpg" 
     width="90%" 
     style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);"
     alt="Imagem Crepúsculo Topo"
@@ -31,7 +31,7 @@
 
 <p align="center">
   <img 
-    src="./SUA_SEGUNDA_IMAGEM.jpg" 
+    src="./maxresdefault.jpg" 
     width="90%" 
     style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);"
     alt="Imagem Crepúsculo Meio"
@@ -74,7 +74,6 @@
     width="100%"
   />
 </p>
-
 
 
 
