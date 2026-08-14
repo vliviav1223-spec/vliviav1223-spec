@@ -1,6 +1,6 @@
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                    HEADER / Livia STYLE                -->
-<!-- ═══════════════════════════════════════════════════════ -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="60%" alt="Sparkles Overlay">
+</p>
 
 <p align="center">
   <img
@@ -24,10 +24,6 @@
 
 <br>
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                         SEARCH BAR                     -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
 <p align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=rect&color=101D20&height=45&text=⌕%20%20%20searching%20the%20internet...%20%20%20☆&fontSize=13&fontColor=668486&fontAlignY=55"
@@ -36,10 +32,6 @@
 </p>
 
 <br>
-
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                       MAIN IMAGE                       -->
-<!-- ═══════════════════════════════════════════════════════ -->
 
 <p align="center">
   <img
@@ -55,11 +47,11 @@
   </sub>
 </p>
 
-<br>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="50%">
+</p>
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                    ABOUT / PROFILE                     -->
-<!-- ═══════════════════════════════════════════════════════ -->
+<br>
 
 <table align="center" width="75%">
   <tr>
@@ -67,16 +59,18 @@
 
       <p align="center">
         <font color="#769394">
-          ☆ about me ☆
+          ☆ ABOUT PLAYER ☆
         </font>
       </p>
 
       <p align="center">
         <font color="#536F71" size="2">
+          <b>CLASS:</b> Cyber Vampire / Full Stack Mage<br>
+          <b>LOCATION:</b> Forks, WA (or the web)<br>
+          <b>SPECIALTY:</b> Building secure code in the dark<br><br>
           Estudante de Cibersegurança<br>
           Futura Desenvolvedora Full Stack<br>
-          Construindo aplicações seguras<br>
-          explorando código, sistemas e a web.
+          Construindo aplicações seguras & explorando código.
         </font>
       </p>
 
@@ -85,10 +79,6 @@
 </table>
 
 <br>
-
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                       SECOND IMAGE                      -->
-<!-- ═══════════════════════════════════════════════════════ -->
 
 <p align="center">
   <img
@@ -106,23 +96,15 @@
   </font>
 </p>
 
-<br>
-
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                       STARS                            -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
 <p align="center">
-  ☆　★　☆　★　☆
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="40%" alt="Sparkles">
 </p>
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                    TECHNOLOGIES                        -->
-<!-- ═══════════════════════════════════════════════════════ -->
+<br>
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=101D20&height=50&text=☆%20technologies%20☆&fontSize=18&fontColor=78999B&fontAlignY=55"
+    src="https://capsule-render.vercel.app/api?type=rect&color=101D20&height=50&text=☆%20SPELLBOOK%20%26%20SKILLS%20☆&fontSize=18&fontColor=78999B&fontAlignY=55"
     width="75%"
   />
 </p>
@@ -143,10 +125,6 @@
 
 <br>
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                       GITHUB STATS                     -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/vliviav1223-spec/vliviav1223-spec/main/Photo.gif"
@@ -158,8 +136,12 @@
 <br>
 
 <p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="30%">
+</p>
+
+<p align="center">
   <sub>
-    ☆ made with insomnia, code & a little bit of twilight ☆
+    ✦ made with insomnia, code & a little bit of twilight magic ✦
   </sub>
 </p>
 
