@@ -149,7 +149,7 @@
 
 <p align="center">
   <img
-    src="./Photo.gif"
+    src="https://raw.githubusercontent.com/vliviav1223-spec/vliviav1223-spec/main/Photo.gif"
     width="65%"
     alt="Photo"
   />
@@ -169,6 +169,9 @@
     width="100%"
   />
 </p>
+
+
+
 
 
 
