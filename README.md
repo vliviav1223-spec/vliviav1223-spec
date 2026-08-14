@@ -95,8 +95,11 @@ CYBER MAGE
 <br>
 
 <p align="center">
-  <img src="./e938d18fc07a3ffd16b4864ef2f1308f.gif
-" width="180" alt="Pikachu">
+  <img
+    src="./e938d18fc07a3ffd16b4864ef2f1308f.gif"
+    width="180"
+    alt="Pikachu"
+  />
 </p>
 
 <p align="center">
