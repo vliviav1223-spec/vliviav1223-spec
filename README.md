@@ -149,9 +149,9 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=vliviav1223-spec&show_icons=true&theme=dark&hide_border=true"
+    src="./Photo.gif"
     width="65%"
-    alt="GitHub Stats"
+    alt="Photo"
   />
 </p>
 
