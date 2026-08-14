@@ -1,29 +1,40 @@
 <p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=slice&color=0:FF0055,50:7A00FF,100:00F5D4&height=200&section=header&text=CYBERSECURITY&fontSize=50&fontColor=FFFFFF&fontAlignY=35&stroke=00F5D4&strokeWidth=2" 
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1319,50:1B2A38,100:3B101C&height=200&section=header&text=CYBERSECURITY&fontSize=48&fontColor=E0E6ED&fontAlignY=35&animation=twinkling" 
     width="100%" 
-    alt="Header Retro Cybersecurity"
+    alt="Header Crepúsculo"
   />
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=3000&pause=800&color=00F5D4&background=00000000&center=true&vCenter=true&width=700&height=50&lines=PLAYER+1%3A+Estudante+de+Ciberseguran%C3%A7a;LEVEL%3A+Futura+Desenvolvedora+Full+Stack;QUEST%3A+Construindo+Aplica%C3%A7%C3%B5es+Seguras;PRESS+START+TO+CONTINUE...;Bem-vindo(a)+ao+meu+perfil!" alt="Typing SVG Retro" />
+    <img src="https://readme-typing-svg.demolab.com?font=Cinzel&size=18&duration=3000&pause=800&color=8FA3B0&background=00000000&center=true&vCenter=true&width=700&height=50&lines=Estudante+de+Ciberseguran%C3%A7a;Futura+Desenvolvedora+Full+Stack;Construindo+Aplica%C3%A7%C3%B5es+Seguras;Bem-vindo(a)+ao+meu+perfil!" alt="Typing SVG Crepusculo" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme-badges/master/assets/lines/rainbow.gif" width="100%" height="4px" />
+  <img 
+    src="./SUA_PRIMEIRA_IMAGEM.jpg" 
+    width="90%" 
+    style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);"
+    alt="Imagem Crepúsculo Topo"
+  />
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme-badges/master/assets/lines/silver.gif" width="100%" height="2px" />
 </p>
 
 <br>
 
 <p align="center">
   <img 
-    src="./2ghbw4ea28471.jpg" 
+    src="./SUA_SEGUNDA_IMAGEM.jpg" 
     width="90%" 
-    style="border: 3px solid #00F5D4; border-radius: 8px;"
-    alt="One Piece Retro"
+    style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);"
+    alt="Imagem Crepúsculo Meio"
   />
 </p>
 
@@ -31,7 +42,7 @@
 
 <p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:1A0033,100:000000&height=80&text=👾%20SELECT%20YOUR%20WEAPON%20(SKILLS)%20👾&fontSize=18&fontColor=FF0055&stroke=00F5D4&strokeWidth=1" 
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1319,50:15222E,100:0B1319&height=70&text=🌑%20Tecnologias%20%26%20Habilidades%20🌑&fontSize=20&fontColor=E0E6ED&stroke=3B101C&strokeWidth=1" 
     width="100%" 
   />
 </p>
@@ -39,8 +50,8 @@
 <br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/CYBERSECURITY-FF0055?style=for-the-badge&logo=shield&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00F5D4?style=for-the-badge&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/CYBERSECURITY-3B101C?style=for-the-badge&logo=shield&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-1B2A38?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/LARAVEL-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
@@ -52,15 +63,20 @@
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=synthwave&hide_border=false" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=dark&hide_border=false" alt="GitHub Stats" />
 </p>
+
+<br>
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5D4,50:7B2CBF,100:050816&height=130&section=footer&animation=twinkling"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:3B101C,50:1B2A38,100:0B1319&height=120&section=footer&animation=twinkling"
     width="100%"
   />
 </p>
+
+
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vliviav1223-spec/vliviav1223-spec/output/github-snake-dark.svg" />
