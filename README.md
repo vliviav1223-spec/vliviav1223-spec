@@ -95,12 +95,12 @@ CYBER MAGE
 <br>
 
 <p align="center">
-  <img src="./200.gif" width="38%" alt="Magic light">
+  <img src="./pokemon.gif" width="180" alt="Pikachu">
 </p>
 
 <p align="center">
-  <font color="#7FA8FF" size="2">
-    ✦✦✦ &nbsp; MAGICAL ENERGY DETECTED &nbsp; ✦✦✦
+  <font color="#F7D046" size="2">
+    ⚡ PIKACHU USED THUNDER CODE! ⚡
   </font>
 </p>
 
