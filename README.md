@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./200.gif" width="100%" alt="Retro magical animation">
+  <img src="https://raw.githubusercontent.com/vliviav1223-spec/vliviav1223-spec/main/200.gif" width="100%" alt="Retro magical animation">
 </p>
 
 <p align="center">
@@ -29,7 +29,7 @@
 
 <br>
 
-<img src="./pokemon.gif" width="180" alt="Player character">
+<img src="https://raw.githubusercontent.com/vliviav1223-spec/vliviav1223-spec/main/pokemon.gif" width="180" alt="Player character">
 
 <br><br>
 
@@ -95,11 +95,7 @@ CYBER MAGE
 <br>
 
 <p align="center">
-  <img
-    src="./e938d18fc07a3ffd16b4864ef2f1308f.gif"
-    width="180"
-    alt="Pikachu"
-  />
+ <img src="https://raw.githubusercontent.com/vliviav1223-spec/vliviav1223-spec/main/e938d18fc07a3ffd16b4864ef2f1308f.gif" width="180" alt="Pikachu">
 </p>
 
 <p align="center">
