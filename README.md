@@ -67,15 +67,15 @@ CYBER MAGE
 
 <font color="#DCE6FF" size="2">
 
-<b>HP</b>   <font color="#68D391">██████████████████░░</font> <br>
+<b>HP</b>   <font color="#68D391">██████████████████░░</font> <br>
 
-<b>MP</b>   <font color="#7FA8FF">███████████████░░░░░</font> <br>
+<b>MP</b>   <font color="#7FA8FF">███████████████░░░░░</font> <br>
 
-<b>XP</b>   <font color="#B794F4">███████████░░░░░░░░░</font>
+<b>XP</b>   <font color="#B794F4">███████████░░░░░░░░░</font>
 
 <br><br>
 
-<b>INT</b>   ████████████████░░   86<br> <b>CODE</b> █████████████████░   91<br> <b>SEC</b>   ███████████████░░░   84<br> <b>MAGIC</b> ██████████████░░░░   79
+<b>INT</b>   ████████████████░░    86<br> <b>CODE</b> █████████████████░    91<br> <b>SEC</b>   ███████████████░░░    84<br> <b>MAGIC</b> ██████████████░░░░    79
 
 </font>
 
@@ -95,7 +95,7 @@ CYBER MAGE
 <br>
 
 <p align="center">
- <img src="https://raw.githubusercontent.com/vliviav1223-spec/vliviav1223-spec/main/e938d18fc07a3ffd16b4864ef2f1308f.gif" width="180" alt="Pikachu">
+  <img src="https://raw.githubusercontent.com/vliviav1223-spec/vliviav1223-spec/main/e938d18fc07a3ffd16b4864ef2f1308f.gif" width="180" alt="Pikachu">
 </p>
 
 <p align="center">
@@ -152,7 +152,7 @@ CYBER MAGE
 <br>
 
 <p align="center">
-  <img src="./200.gif" width="24%" alt="Magic effect">
+  <img src="https://raw.githubusercontent.com/vliviav1223-spec/vliviav1223-spec/main/200.gif" width="24%" alt="Magic effect">
 </p>
 
 <br>
@@ -191,7 +191,7 @@ CYBER MAGE
 <br>
 
 <p align="center">
-  <img src="./200.gif" width="45%" alt="Animated magic">
+  <img src="https://raw.githubusercontent.com/vliviav1223-spec/vliviav1223-spec/main/200.gif" width="45%" alt="Animated magic">
 </p>
 
 <br>
@@ -296,18 +296,18 @@ Knowledge
 <font color="#526E9A">
 ┌──────────────────────────────────────────────────────┐
 │                                                      │
-│   $ ./livia_adventure                               │
+│   $ ./livia_adventure                                │
 │                                                      │
-│   [████████████████████████████████████████] 100%   │
+│   [████████████████████████████████████████] 100%    │
 │                                                      │
 │   INITIALIZING MAGIC...             <font color="#68D391">OK</font>        │
 │   LOADING SKILLS...                 <font color="#68D391">OK</font>        │
 │   LOADING CYBERSECURITY...          <font color="#68D391">OK</font>        │
 │   SUMMONING CODE...                 <font color="#68D391">OK</font>        │
 │                                                      │
-│   <font color="#C8A96B">PLAYER READY.</font>                                    │
+│   <font color="#C8A96B">PLAYER READY.</font>                                     │
 │                                                      │
-│   > ENTER THE DIGITAL REALM_                        │
+│   > ENTER THE DIGITAL REALM_                         │
 │                                                      │
 └──────────────────────────────────────────────────────┘
 </font>
@@ -320,7 +320,7 @@ Knowledge
 <br>
 
 <p align="center">
-  <img src="./pokemon.gif" width="30%" alt="Retro character">
+  <img src="https://raw.githubusercontent.com/vliviav1223-spec/vliviav1223-spec/main/pokemon.gif" width="30%" alt="Retro character">
 </p>
 
 <p align="center">
@@ -338,7 +338,7 @@ Knowledge
 <br>
 
 <p align="center">
-  <img src="./200.gif" width="32%" alt="Magic sparkle">
+  <img src="https://raw.githubusercontent.com/vliviav1223-spec/vliviav1223-spec/main/200.gif" width="32%" alt="Magic sparkle">
 </p>
 
 <p align="center">
@@ -354,8 +354,11 @@ Knowledge
   />
 </p>
 
-
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vliviav1223-spec/vliviav1223-spec/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vliviav1223-spec/vliviav1223-spec/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/vliviav1223-spec/vliviav1223-spec/output/github-snake.svg" />
+</picture>
 
 
 
