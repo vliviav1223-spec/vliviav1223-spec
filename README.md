@@ -361,7 +361,45 @@ Knowledge
 </picture>
 
 
+name: Generate Snake
 
+on:
+  schedule:
+    # Executa todo dia à meia-noite (0 0 * * *)
+    - cron: "0 0 * * *"
+  
+  # Permite rodar manualmente na aba Actions
+  workflow_dispatch:
+  
+  # Roda automaticamente a cada push na branch main
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+      
+      - name: Generate Snake
+        uses: Platane/snk@v3
+        id: snake-gif
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          # Cor da cobrinha, estilo cyberpunk
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            
+      - name: Push the snake
+        uses: crazy-max/github-action-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vliviav1223-spec/vliviav1223-spec/output/github-snake-dark.svg" />
