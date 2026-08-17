@@ -1,5 +1,6 @@
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vliviav1223-spec/vliviav1223-spec/main/200.gif" width="100%" alt="Retro magical animation">
+  <img src="https://raw.githubusercontent.com/vliviav1223-spec/vliviav1223-spec/main/11-44-29-195_512.gif" width="100%" alt="Retro magical animation">
 </p>
 
 <p align="center">
@@ -29,7 +30,7 @@
 
 <br>
 
-<img src="https://raw.githubusercontent.com/vliviav1223-spec/vliviav1223-spec/main/pokemon.gif" width="180" alt="Player character">
+<img src="https://raw.githubusercontent.com/vliviav1223-spec/vliviav1223-spec/main/git.gif" width="180" alt="Player character">
 
 <br><br>
 
@@ -47,7 +48,10 @@ CYBER MAGE
 
 <font color="#DCE6FF" size="2">
 
-<b>LV.</b> 24<br> <b>CLASS:</b> Cybersecurity Mage<br> <b>ALIGNMENT:</b> Digital Explorer<br> <b>REGION:</b> The Web<br>
+<b>LV.</b> 24<br>
+<b>CLASS:</b> Cybersecurity Mage<br>
+<b>ALIGNMENT:</b> Digital Explorer<br>
+<b>REGION:</b> The Web<br>
 
 </font>
 
@@ -99,7 +103,7 @@ CYBER MAGE
 <br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vliviav1223-spec/vliviav1223-spec/main/e938d18fc07a3ffd16b4864ef2f1308f.gif" width="180" alt="Pikachu">
+  <img src="https://raw.githubusercontent.com/vliviav1223-spec/vliviav1223-spec/main/gs%2BBrY.gif" width="180" alt="Retro character">
 </p>
 
 <p align="center">
@@ -156,7 +160,7 @@ CYBER MAGE
 <br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vliviav1223-spec/vliviav1223-spec/main/200.gif" width="24%" alt="Magic effect">
+  <img src="https://raw.githubusercontent.com/vliviav1223-spec/vliviav1223-spec/main/11-44-29-195_512.gif" width="24%" alt="Magic effect">
 </p>
 
 <br>
@@ -207,7 +211,7 @@ CYBER MAGE
 <br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vliviav1223-spec/vliviav1223-spec/main/200.gif" width="45%" alt="Animated magic">
+  <img src="https://raw.githubusercontent.com/vliviav1223-spec/vliviav1223-spec/main/11-44-29-195_512.gif" width="45%" alt="Animated magic">
 </p>
 
 <br>
@@ -336,7 +340,7 @@ Knowledge
 <br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vliviav1223-spec/vliviav1223-spec/main/pokemon.gif" width="30%" alt="Retro character">
+  <img src="https://raw.githubusercontent.com/vliviav1223-spec/vliviav1223-spec/main/git.gif" width="30%" alt="Retro character">
 </p>
 
 <p align="center">
@@ -354,7 +358,7 @@ Knowledge
 <br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vliviav1223-spec/vliviav1223-spec/main/200.gif" width="32%" alt="Magic sparkle">
+  <img src="https://raw.githubusercontent.com/vliviav1223-spec/vliviav1223-spec/main/11-44-29-195_512.gif" width="32%" alt="Magic sparkle">
 </p>
 
 <p align="center">
@@ -371,7 +375,7 @@ Knowledge
 </p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vliviav1223-spec/vliviav1223-spec/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vliviav1223-spec/vliviav1223-spec/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/vliviav1223-spec/vliviav1223-spec/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vliviav1223-spec/vliviav1223-spec/main/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vliviav1223-spec/vliviav1223-spec/main/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/vliviav1223-spec/vliviav1223-spec/main/output/github-snake.svg" />
 </picture>
