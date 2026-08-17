@@ -47,7 +47,7 @@ CYBER MAGE
 
 <font color="#DCE6FF" size="2">
 
-<b>LV.</b> 20<br> <b>CLASS:</b> Cybersecurity Mage<br> <b>ALIGNMENT:</b> Digital Explorer<br> <b>REGION:</b> The Web<br>
+<b>LV.</b> 24<br> <b>CLASS:</b> Cybersecurity Mage<br> <b>ALIGNMENT:</b> Digital Explorer<br> <b>REGION:</b> The Web<br>
 
 </font>
 
@@ -75,7 +75,11 @@ CYBER MAGE
 
 <br><br>
 
-<b>INT</b>   ████████████████░░    86<br> <b>CODE</b> █████████████████░    91<br> <b>SEC</b>   ███████████████░░░    84<br> <b>MAGIC</b> ██████████████░░░░    79
+<b>C</b>    ████████████████░░    86<br>
+<b>C#</b>   █████████████████░    91<br>
+<b>WEB</b>  ███████████████░░░    84<br>
+<b>SEC</b>  ██████████████░░░░    79<br>
+<b>IA</b>   ██████████████░░░░    79
 
 </font>
 
@@ -123,7 +127,7 @@ CYBER MAGE
 
 > **Become a Full Stack Developer**
 
-`████████████████░░░░` `80%`
+`██████████░░░░░░░░░░` `50%`
 
 <br>
 
@@ -182,9 +186,21 @@ CYBER MAGE
 
 <img src="https://img.shields.io/badge/CSS3-0A0F18?style=for-the-badge&logo=css3&logoColor=7FA8FF">
 
+<img src="https://img.shields.io/badge/HTML5-0A0F18?style=for-the-badge&logo=html5&logoColor=E34F26">
+
 <img src="https://img.shields.io/badge/Git-0A0F18?style=for-the-badge&logo=git&logoColor=F05032">
 
+</p>
+
+<p align="center">
+
 <img src="https://img.shields.io/badge/Cybersecurity-0A0F18?style=for-the-badge&logo=hackthebox&logoColor=68D391">
+
+<img src="https://img.shields.io/badge/IA-0A0F18?style=for-the-badge&logo=openai&logoColor=7FA8FF">
+
+<img src="https://img.shields.io/badge/Dados-0A0F18?style=for-the-badge&logo=databricks&logoColor=FF3621">
+
+<img src="https://img.shields.io/badge/SQL-0A0F18?style=for-the-badge&logo=mysql&logoColor=4479A1">
 
 </p>
 
@@ -277,7 +293,7 @@ Knowledge
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=101827&height=48&text=💻%20MAGIC%20IN%20PROGRESS&fontSize=17&fontColor=C8A96B&fontAlignY=55"
+    src="https://capsule-render.vercel.app/api?type=rect&color=101827&height=48&text=💻%20SYSTEM%20IN%20PROGRESS&fontSize=17&fontColor=C8A96B&fontAlignY=55"
     width="78%"
   />
 </p>
@@ -300,7 +316,7 @@ Knowledge
 │                                                      │
 │   [████████████████████████████████████████] 100%    │
 │                                                      │
-│   INITIALIZING MAGIC...             <font color="#68D391">OK</font>        │
+│   INITIALIZING AI...                <font color="#68D391">OK</font>        │
 │   LOADING SKILLS...                 <font color="#68D391">OK</font>        │
 │   LOADING CYBERSECURITY...          <font color="#68D391">OK</font>        │
 │   SUMMONING CODE...                 <font color="#68D391">OK</font>        │
@@ -343,7 +359,7 @@ Knowledge
 
 <p align="center">
   <sub>
-    ✦ made with insomnia, code, curiosity & a little bit of magic ✦
+    ✦ made with cafe, monster, code, curiosity & a little bit of magic ✦
   </sub>
 </p>
 
