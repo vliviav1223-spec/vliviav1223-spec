@@ -9,7 +9,7 @@
 <br>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=161B22&height=40&text=⚙️%20SKILL%20SET%20%26%20STACK&fontSize=14&fontColor=C9D1D9&fontAlignY=55" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=161B22&height=40&text=SKILL%20SET%20%26%20STACK&fontSize=14&fontColor=C9D1D9&fontAlignY=55" width="100%" />
 </p>
 
 <p align="center">
@@ -54,7 +54,7 @@
 <br>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=161B22&height=40&text=📊%20SYSTEM%20METRICS&fontSize=14&fontColor=C9D1D9&fontAlignY=55" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=161B22&height=40&text=SYSTEM%20METRICS&fontSize=14&fontColor=C9D1D9&fontAlignY=55" width="100%" />
 </p>
 
 <p align="center">
