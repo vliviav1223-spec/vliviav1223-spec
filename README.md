@@ -1,384 +1,88 @@
-
 <p align="center">
   <img src="bola_girando_brilho_github.gif" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vliviav1223-spec/vliviav1223-spec/main/11-44-29-195_512.gif" width="100%" alt="Retro magical animation">
-</p>
-
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=070B12&height=110&text=⚔%20LIVIA%20⚔&fontSize=42&fontColor=C8A96B&fontAlignY=55&desc=CYBER%20MAGE%20%7C%20FULL%20STACK%20ADVENTURER&descAlignY=82&descSize=12&descColor=7FA8FF"
-    width="100%"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=11&duration=3000&pause=900&color=7FA8FF&background=070B12&center=true&vCenter=true&width=600&height=45&lines=%3E%3E+NEW+QUEST+FOUND...;%3E%3E+CYBERSECURITY+MAGE;%3E%3E+FULL+STACK+ADVENTURER;%3E%3E+ENTERING+THE+DIGITAL+REALM..."
-    alt="Typing RPG text"
-  />
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=15&duration=3500&pause=1200&color=C9D1D9&background=0D111700&center=true&vCenter=true&width=650&height=45&lines=C:%5C>+Hello,+I'm+Livia_%3B%C3%81rea%3A+Full+Stack+%26+Cybersecurity_%3BWelcome+to+my+digital+realm_%3B%3E+Ready+to+code_&cursor=true" alt="Typing effect with cursor" />
 </p>
 
 <br>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=101827&height=45&text=╔═══%20PLAYER%20STATUS%20═══╗&fontSize=15&fontColor=C8A96B&fontAlignY=55" width="78%">
-</p>
+### 👤 WHO I AM
 
-<table align="center" width="78%">
-<tr>
+Hey, I'm Livia — a developer and cybersecurity enthusiast passionate about building secure systems, clean code, and immersive digital experiences.
 
-<td width="42%" align="center" bgcolor="#0A0F18">
+---
 
-<br>
+### 💻 WHAT I DO
 
-<img src="https://raw.githubusercontent.com/vliviav1223-spec/vliviav1223-spec/main/git.gif" width="180" alt="Player character">
+I build robust full-stack applications, explore web security, and turn complex logical ideas into reliable software products from the ground up.
 
-<br><br>
+---
 
-<font color="#C8A96B" size="4">
-<b>✦ LIVIA ✦</b>
-</font>
+### 🌐 BEYOND CODE
 
-<br>
-
-<font color="#7FA8FF" size="2">
-CYBER MAGE
-</font>
-
-<br><br>
-
-<font color="#DCE6FF" size="2">
-
-<b>LV.</b> 24<br>
-<b>CLASS:</b> Cybersecurity Mage<br>
-<b>ALIGNMENT:</b> Digital Explorer<br>
-<b>REGION:</b> The Web<br>
-
-</font>
-
-<br>
-
-</td>
-
-<td width="58%" bgcolor="#0D1420">
+Problem-solving, exploring the digital underground, tech tinkering, and continuous learning — that's me outside the terminal.
 
 <br>
 
 <p align="center">
-<font color="#C8A96B">
-<b>⚔ CHARACTER STATS ⚔</b>
-</font>
-</p>
-
-<font color="#DCE6FF" size="2">
-
-<b>HP</b>   <font color="#68D391">██████████████████░░</font> <br>
-
-<b>MP</b>   <font color="#7FA8FF">███████████████░░░░░</font> <br>
-
-<b>XP</b>   <font color="#B794F4">███████████░░░░░░░░░</font>
-
-<br><br>
-
-<b>C</b>    ████████████████░░    86<br>
-<b>C#</b>   █████████████████░    91<br>
-<b>WEB</b>  ███████████████░░░    84<br>
-<b>SEC</b>  ██████████████░░░░    79<br>
-<b>IA</b>   ██████████████░░░░    79
-
-</font>
-
-<br><br>
-
-<p align="center">
-<font color="#526E9A" size="2">
-「 The code is my spellbook. 」 
-</font>
-</p>
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/vliviav1223-spec/vliviav1223-spec/main/gs%2BBrY.gif" width="180" alt="Retro character">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=161B22&height=40&text=⚙️%20SKILL%20SET%20%26%20STACK&fontSize=14&fontColor=C9D1D9&fontAlignY=55" width="100%" />
 </p>
 
 <p align="center">
-  <font color="#F7D046" size="2">
-    ⚡ PIKACHU USED THUNDER CODE! ⚡
-  </font>
+  <!-- Linguagens Core -->
+  <img src="https://img.shields.io/badge/PHP-161B22?style=for-the-badge&logo=php&logoColor=777BB4">
+  <img src="https://img.shields.io/badge/JavaScript-161B22?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+  <img src="https://img.shields.io/badge/Node.js-161B22?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E">
+  <img src="https://img.shields.io/badge/Python-161B22?style=for-the-badge&logo=python&logoColor=3776AB">
+  <img src="https://img.shields.io/badge/C-161B22?style=for-the-badge&logo=c&logoColor=A8B9CC">
+  <img src="https://img.shields.io/badge/C%23-161B22?style=for-the-badge&logo=csharp&logoColor=239120">
+  <img src="https://img.shields.io/badge/Bash-161B22?style=for-the-badge&logo=gnu-bash&logoColor=4EAA25">
+</p>
+
+<p align="center">
+  <!-- Web & Frameworks -->
+  <img src="https://img.shields.io/badge/HTML5-161B22?style=for-the-badge&logo=html5&logoColor=E34F26">
+  <img src="https://img.shields.io/badge/CSS3-161B22?style=for-the-badge&logo=css3&logoColor=1572B6">
+  <img src="https://img.shields.io/badge/Laravel-161B22?style=for-the-badge&logo=laravel&logoColor=FF2D20">
+  <img src="https://img.shields.io/badge/React-161B22?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/Next.js-161B22?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF">
+</p>
+
+<p align="center">
+  <!-- Segurança & Ferramentas de Teste -->
+  <img src="https://img.shields.io/badge/TryHackMe-161B22?style=for-the-badge&logo=tryhackme&logoColor=B81414">
+  <img src="https://img.shields.io/badge/PortSwigger-161B22?style=for-the-badge&logo=portswigger&logoColor=FF6600">
+  <img src="https://img.shields.io/badge/Burp%20Suite-161B22?style=for-the-badge&logo=burpsuite&logoColor=FF6633">
+  <img src="https://img.shields.io/badge/Docker-161B22?style=for-the-badge&logo=docker&logoColor=2496ED">
+</p>
+
+<p align="center">
+  <!-- Produtividade, Design, IA & Outros -->
+  <img src="https://img.shields.io/badge/Jira-161B22?style=for-the-badge&logo=jira&logoColor=0052CC">
+  <img src="https://img.shields.io/badge/Trello-161B22?style=for-the-badge&logo=trello&logoColor=0052CC">
+  <img src="https://img.shields.io/badge/Figma-161B22?style=for-the-badge&logo=figma&logoColor=F24E1E">
+  <img src="https://img.shields.io/badge/Lovable-161B22?style=for-the-badge&logo=rocket&logoColor=FF5722">
+  <img src="https://img.shields.io/badge/ChatGPT-161B22?style=for-the-badge&logo=openai&logoColor=412991">
+  <img src="https://img.shields.io/badge/Claude-161B22?style=for-the-badge&logo=anthropic&logoColor=D97706">
+  <img src="https://img.shields.io/badge/Kiro-161B22?style=for-the-badge&logo=codeforces&logoColor=3B82F6">
 </p>
 
 <br>
 
 <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=101827&height=48&text=📜%20QUEST%20LOG&fontSize=18&fontColor=C8A96B&fontAlignY=55"
-    width="78%"
-  />
-</p>
-
-<table align="center" width="78%">
-<tr>
-<td bgcolor="#0A0F18">
-
-<font color="#DCE6FF" size="2">
-
-### ⚔ MAIN QUEST
-
-> **Become a Full Stack Developer**
-
-`██████████░░░░░░░░░░` `50%`
-
-<br>
-
-### 🛡 ACTIVE QUESTS
-
-* `☑` Study Cybersecurity
-* `☑` Explore Web Development
-* `☑` Build secure applications
-* `☐` Master Full Stack Development
-* `☐` Create something legendary
-
-<br>
-
-### 🔮 SIDE QUEST
-
-> Explore the unknown parts of the digital realm.
-
-`STATUS: ACTIVE`
-
-</font>
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/vliviav1223-spec/vliviav1223-spec/main/11-44-29-195_512.gif" width="24%" alt="Magic effect">
-</p>
-
-<br>
-
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=101827&height=48&text=📖%20SPELLBOOK&fontSize=18&fontColor=C8A96B&fontAlignY=55"
-    width="78%"
-  />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=161B22&height=40&text=📊%20SYSTEM%20METRICS&fontSize=14&fontColor=C9D1D9&fontAlignY=55" width="100%" />
 </p>
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/C-0A0F18?style=for-the-badge&logo=c&logoColor=7FA8FF">
-
-<img src="https://img.shields.io/badge/C%23-0A0F18?style=for-the-badge&logo=csharp&logoColor=7FA8FF">
-
-<img src="https://img.shields.io/badge/PHP-0A0F18?style=for-the-badge&logo=php&logoColor=7FA8FF">
-
-<img src="https://img.shields.io/badge/Laravel-0A0F18?style=for-the-badge&logo=laravel&logoColor=FF6B6B">
-
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/JavaScript-0A0F18?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-
-<img src="https://img.shields.io/badge/CSS3-0A0F18?style=for-the-badge&logo=css3&logoColor=7FA8FF">
-
-<img src="https://img.shields.io/badge/HTML5-0A0F18?style=for-the-badge&logo=html5&logoColor=E34F26">
-
-<img src="https://img.shields.io/badge/Git-0A0F18?style=for-the-badge&logo=git&logoColor=F05032">
-
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Cybersecurity-0A0F18?style=for-the-badge&logo=hackthebox&logoColor=68D391">
-
-<img src="https://img.shields.io/badge/IA-0A0F18?style=for-the-badge&logo=openai&logoColor=7FA8FF">
-
-<img src="https://img.shields.io/badge/Dados-0A0F18?style=for-the-badge&logo=databricks&logoColor=FF3621">
-
-<img src="https://img.shields.io/badge/SQL-0A0F18?style=for-the-badge&logo=mysql&logoColor=4479A1">
-
+  <img src="https://github-readme-stats.vercel.app/api?username=vliviav1223-spec&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&text_color=C9D1D9&icon_color=8B949E&title_color=E6EDF3" alt="GitHub Stats" />
 </p>
 
 <br>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/vliviav1223-spec/vliviav1223-spec/main/11-44-29-195_512.gif" width="45%" alt="Animated magic">
-</p>
-
-<br>
-
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=101827&height=48&text=⚔%20INVENTORY&fontSize=18&fontColor=C8A96B&fontAlignY=55"
-    width="78%"
-  />
-</p>
-
-<table align="center" width="78%">
-<tr>
-
-<td align="center" bgcolor="#0A0F18">
-
-<font color="#C8A96B" size="3">
-⚔
-</font>
-
-<br>
-
-<font color="#DCE6FF" size="2">
-<b>CODE BLADE</b>
-<br>
-Programming
-</font>
-
-</td>
-
-<td align="center" bgcolor="#0A0F18">
-
-<font color="#68D391" size="3">
-🛡
-</font>
-
-<br>
-
-<font color="#DCE6FF" size="2">
-<b>SECURITY SHIELD</b>
-<br>
-Cybersecurity
-</font>
-
-</td>
-
-<td align="center" bgcolor="#0A0F18">
-
-<font color="#B794F4" size="3">
-🔮
-</font>
-
-<br>
-
-<font color="#DCE6FF" size="2">
-<b>MAGIC CORE</b>
-<br>
-Creativity
-</font>
-
-</td>
-
-<td align="center" bgcolor="#0A0F18">
-
-<font color="#C8A96B" size="3">
-📜
-</font>
-
-<br>
-
-<font color="#DCE6FF" size="2">
-<b>ANCIENT SCROLL</b>
-<br>
-Knowledge
-</font>
-
-</td>
-
-</tr>
-</table>
-
-<br><br>
-
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=101827&height=48&text=💻%20SYSTEM%20IN%20PROGRESS&fontSize=17&fontColor=C8A96B&fontAlignY=55"
-    width="78%"
-  />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=14&duration=2500&pause=700&color=7FA8FF&background=0A0F1800&center=true&vCenter=true&width=650&height=40&lines=%3E+sudo+start_adventure;%3E+loading+cybersecurity...;%3E+compiling+future_full_stack_dev...;%3E+access_granted;%3E+quest_status%3A+IN_PROGRESS" alt="Terminal animation">
-</p>
-
-<br>
-
-<table align="center" width="78%">
-<tr>
-<td bgcolor="#05080D">
-
-<pre>
-<font color="#526E9A">
-┌──────────────────────────────────────────────────────┐
-│                                                      │
-│   $ ./livia_adventure                                │
-│                                                      │
-│   [████████████████████████████████████████] 100%    │
-│                                                      │
-│   INITIALIZING AI...                <font color="#68D391">OK</font>        │
-│   LOADING SKILLS...                 <font color="#68D391">OK</font>        │
-│   LOADING CYBERSECURITY...          <font color="#68D391">OK</font>        │
-│   SUMMONING CODE...                 <font color="#68D391">OK</font>        │
-│                                                      │
-│   <font color="#C8A96B">PLAYER READY.</font>                                     │
-│                                                      │
-│   > ENTER THE DIGITAL REALM_                         │
-│                                                      │
-└──────────────────────────────────────────────────────┘
-</font>
-</pre>
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/vliviav1223-spec/vliviav1223-spec/main/git.gif" width="30%" alt="Retro character">
-</p>
-
-<p align="center">
-  <font color="#C8A96B" size="2">
-    ★ ACHIEVEMENT UNLOCKED ★
-  </font>
-</p>
-
-<p align="center">
-  <font color="#DCE6FF" size="2">
-    <b>THE ADVENTURE HAS JUST BEGUN.</b>
-  </font>
-</p>
-
-<br>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/vliviav1223-spec/vliviav1223-spec/main/11-44-29-195_512.gif" width="32%" alt="Magic sparkle">
-</p>
-
-<p align="center">
-  <sub>
-    ✦ made with cafe, monster, code, curiosity & a little bit of magic ✦
-  </sub>
-</p>
-
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:05080D,50:101827,100:273A59&height=120&section=footer"
-    width="100%"
-  />
-</p>
-
-  <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vliviav1223-spec/vliviav1223-spec/output/github-snake-dark.svg" /> 
+<picture> 
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vliviav1223-spec/vliviav1223-spec/output/github-snake-dark.svg" /> 
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vliviav1223-spec/vliviav1223-spec/output/github-snake.svg" /> 
   <img alt="github-snake" src="https://raw.githubusercontent.com/vliviav1223-spec/vliviav1223-spec/output/github-snake.svg" /> 
 </picture>
