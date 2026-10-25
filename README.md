@@ -8,9 +8,8 @@
 
 <br>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=161B22&height=40&text=SKILL%20SET%20%26%20STACK&fontSize=14&fontColor=C9D1D9&fontAlignY=55" width="100%" />
-</p>
+### ⚙️ SKILL SET & STACK
+---
 
 <p align="center">
   <!-- Linguagens Core -->
@@ -53,9 +52,8 @@
 
 <br>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=161B22&height=40&text=SYSTEM%20METRICS&fontSize=14&fontColor=C9D1D9&fontAlignY=55" width="100%" />
-</p>
+### 📊 SYSTEM METRICS
+---
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vliviav1223-spec&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&text_color=C9D1D9&icon_color=8B949E&title_color=E6EDF3" alt="GitHub Stats" />
