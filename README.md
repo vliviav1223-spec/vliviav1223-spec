@@ -1,4 +1,8 @@
-<img src="bola_girando_brilho_github.gif" width="400px" alt="Meu GIF" />
+
+<p align="center">
+  <img src="bola_girando_brilho_github.gif" width="100%" />
+</p>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/vliviav1223-spec/vliviav1223-spec/main/11-44-29-195_512.gif" width="100%" alt="Retro magical animation">
 </p>
